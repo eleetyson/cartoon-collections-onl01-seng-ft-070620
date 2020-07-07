@@ -4,7 +4,7 @@ end
 
 def summon_captain_planet(arr)
   arr.map {|i| i[0].upcase}
-  arr
+  arr.map {|j| j.}
 end
 
 def long_planeteer_calls
