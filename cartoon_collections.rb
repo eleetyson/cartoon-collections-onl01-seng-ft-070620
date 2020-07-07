@@ -8,7 +8,7 @@ def summon_captain_planet(arr)
 end
 
 def long_planeteer_calls(arr)
-  arr.reject {|word| word }
+  arr.reject {|word| word.length }
 end
 
 def find_the_cheese
