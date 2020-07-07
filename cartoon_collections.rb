@@ -7,7 +7,7 @@ def summon_captain_planet(arr)
   return new2 = new1.map {|j| j << "!"}
 end
 
-def long_planeteer_calls
+def long_planeteer_calls(arr)
   
 end
 
